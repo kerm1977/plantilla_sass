@@ -1,0 +1,36 @@
+// colorhunt.co -- Paleta de colores
+// AQUI VAN LAS VARIABLES
+//Sintaxis de una variable...  $colorUno: #ffffff;
+$colorUno: red;
+
+
+
+ header{
+ 	// aqui todo el contenido del header
+ 	//Invocar una variable... background:$colorUno;
+ }	
+
+
+.informacion{
+	.pepino{
+		color: $colorUno;
+ 	}
+}
+
+
+
+ body{
+ 	// aqui todo el contenido del body
+ }
+
+
+
+
+
+footer{
+	// aqui todo el contenido del footer
+}
+
+
+
+
